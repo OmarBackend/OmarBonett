@@ -1,6 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=backenddeveloper%20🤠💻&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h2 align="left">Hola 👋! Mi nombre es omar bonett, soy ingeniero de sistemas backenddeveloper</h2>
 
+![Metrics](https://metrics.lecoq.io/OmarBackend?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FBogota)
 ###
 
 <div align="center">
