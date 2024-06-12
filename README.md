@@ -43,14 +43,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OmarBackend/OmarBackend/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/OmarBackend/OmarBackend/output/snake.svg" alt="Snake animation" />
-
-###
